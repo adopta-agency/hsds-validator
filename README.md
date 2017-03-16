@@ -5,5 +5,5 @@ We need a write up of requirement, so that this can become an officially funded 
 
 Contacts:
 
-Kin Lane - @kinlane
-Greg Bloom - @greggish
+* Kin Lane - @kinlane
+* Greg Bloom - @greggish
